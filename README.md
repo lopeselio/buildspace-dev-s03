@@ -1,5 +1,6 @@
 # buildspace-dev-s03
 
+### Week 1 (Established logic using Axelar GMP)
 Cross Chain Token Streaming 
 
 ![image](https://user-images.githubusercontent.com/43913734/232319124-a10eb43c-210e-41f8-9202-dcbae578ec5d.png)
@@ -36,3 +37,12 @@ contract sendToken {
     }
 }
 ```
+
+### Week 2
+Develop a basic token streaming application
+
+### Week 3
+Add cross chain functionaliy using Axelar General Passing
+
+### Week 4
+Construct simple UI
